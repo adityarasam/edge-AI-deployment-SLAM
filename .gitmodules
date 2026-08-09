@@ -1,0 +1,9 @@
+[submodule "tutorials/tutorials/xfeat-ptq"]
+	path = tutorials/tutorials/xfeat-ptq
+	url = https://github.com/adityarasam/tutorial-xfeat-ptq.git
+[submodule "tutorials/xfeat-ptq"]
+	path = tutorials/xfeat-ptq
+	url = https://github.com/adityarasam/tutorial-xfeat-ptq.git
+[submodule "tutorials/lighterglue-ptq"]
+	path = tutorials/lighterglue-ptq
+	url = https://github.com/adityarasam/tutorial-lighterglue-ptq.git
