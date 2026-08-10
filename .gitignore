@@ -1,0 +1,19 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Downloaded weights & models (handled by setup.sh)
+weights/
+*.pth
+*.pt
+*.onnx
+*.onnx.data
+
+# Symlinked/Downloaded sample datasets
+sample_data/
+
+# OS artifacts
+.DS_Store
+*.swp
