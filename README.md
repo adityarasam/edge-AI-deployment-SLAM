@@ -1,4 +1,4 @@
-# Edge SLAM: End-to-End Quantized Deep Perception for Autonomous Robotics
+# Edge AI-Deployemnt: End-to-End Quantized Deep Perception for SLAM Front-End
 
 [![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-1.16+-blue.svg)](https://onnxruntime.ai/)
 [![Quantization](https://img.shields.io/badge/PTQ-XFeat_INT8_%2B_LighterGlue_INT8-green.svg)]()
